@@ -2,7 +2,7 @@
 
 ### Build a URL Shortener Microservice
 
-Try it on Glitch: https://lovely-tendency.glitch.me/
+View online: https://lovely-tendency.glitch.me/
 
 #### User Stories
 
